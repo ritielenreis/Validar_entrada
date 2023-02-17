@@ -1,4 +1,4 @@
-# Validar_entrada
+# validar_entrada
 Exercício feito durante o Módulo 3 do curso Python 3 da Plataforma Curso em Vídeo que foi concluído em Julho de 2022. Na altura meus conhecimentos se limitavam à **Tipos de dados, Operadores Aritméticos, Módulos, Manipulação de Texto, Condições, Estruturas de repetição, Tuplas, Listas, Dicionários** e acabava de aprender **Funções**. 
 
 ### Enunciado:
